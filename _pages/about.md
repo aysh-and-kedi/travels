@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This is a personal travel blog of Ayesha & Kedar [^1].
 
 
 
